@@ -1,0 +1,34 @@
+p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 10.0px Monaco; color: #f4f4f4;
+background-color: #000000; background-color: rgba(0, 0, 0, 0.85)}
+span.s1 {font-variant-ligatures: no-common-ligatures}
+
+2017-02-09T02:37:44 [ERROR] Consumer iwjef99 could not be contacted
+2017-02-09T02:37:46 [INFO] Message received from Producer w89fj93
+2017-02-09T02:37:51 [ERROR] Consumer 7sjeuf returned 504
+2017-02-09T02:37:53 [INFO] Message received from Producer a99jef9
+2017-02-09T02:37:59 [INFO] Message sent to Consumer a99jef9
+2017-02-09T02:38:02 [INFO] Message received from Producer a99jef9
+2017-02-09T02:38:08 [INFO] Message received from Producer 7sjeuf
+2017-02-09T02:38:10 [INFO] Message sent to Consumer 98w9jfi9
+2017-02-09T02:38:10 [INFO] Message sent to Consumer a9i5f
+2017-02-09T02:38:12 [INFO] Message received from Producer 98w9jfi9
+2017-02-09T02:38:15 [INFO] Message received from Producer w89fj93
+2017-02-09T02:38:17 [INFO] Message sent to Consumer i9wjf99
+2017-02-09T02:38:21 [INFO] Message sent to Consumer 7sjeuf
+2017-02-09T02:38:27 [INFO] Message received from Producer iwjef99
+2017-02-09T02:38:29 [INFO] Message received from Producer i9wjf99
+2017-02-09T02:38:31 [INFO] Message received from Producer i9wjf99
+2017-02-09T02:38:35 [INFO] Message received from Producer 98w9jfi9
+2017-02-09T02:38:40 [INFO] Message received from Producer 7sjeuf
+2017-02-09T02:38:40 [INFO] Message sent to Consumer w89fj93
+2017-02-09T02:38:44 [INFO] Message received from Producer i9wjf99
+2017-02-09T02:38:49 [INFO] Message received from Producer 98w9jfi9
+2017-02-09T02:38:55 [ERROR] Consumer a99jef9 disconnected unexpectedly
+2017-02-09T02:38:55 [ERROR] Consumer i9wjf99 returned 503
+2017-02-09T02:38:58 [INFO] Message received from Producer w89fj93
+2017-02-09T02:39:02 [INFO] Message received from Producer iwjef99
+2017-02-09T02:39:04 [INFO] Message sent to Consumer a99jef9
+2017-02-09T02:39:07 [INFO] Message sent to Consumer 98w9jfi9
+2017-02-09T02:39:11 [INFO] Message received from Producer 63di9
+2017-02-09T02:39:15 [INFO] Message sent to Consumer 8efkwi
+2017-02-09T02:39:20 [INFO] Message sent to Consumer a99jef9
